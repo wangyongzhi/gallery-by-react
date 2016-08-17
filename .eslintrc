@@ -23,6 +23,7 @@
     "no-undef": 1,
     "global-strict": 0,
     "no-extra-semi": 1,
+    "semi": [2, "always"],//语句强制分号结尾
     "no-underscore-dangle": 0,
     "no-console": 1,
     "no-unused-vars": 0,
