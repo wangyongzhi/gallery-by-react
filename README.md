@@ -12,5 +12,5 @@ npm start
 
 完事会自动打开http://localhost:8000/webpack-dev-server/可看效果
 
-如果你想先睹为快，也可通过http://zhige.me/gallery-by-react/查看效果
+如果你想先睹为快，也可通过 http://zhige.me/gallery-by-react/ 查看效果
 
