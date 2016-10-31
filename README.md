@@ -13,8 +13,6 @@ npm start
 
 完事会自动打开http://localhost:8000/webpack-dev-server/可看效果
 
-如果你想先睹为快，也可通过 http://zhige.me/gallery-by-react/ 查看效果
-
 当然，学一门新技术可能会遇到很多问题，尤其是最新版本和教程已经有很不同之处，这需要有足够的耐心，一步一步去解决它。
 
 <!--more-->
