@@ -114,7 +114,7 @@ SASS_BINARY_SITE=https://npm.taobao.org/mirrors/node-sass/ npm install
 
 打开工程，目录结构如下，这个与视频之中有点不一样，没了Gruntfile.js和webpack.dist.config.js，莫方，容我一一道来
 
-![img](https://static.dingtalk.com/media/lALOaj3x_c0BHczz_243_285.png_620x10000q90g.jpg)
+![img](https://camo.githubusercontent.com/462e6799f0488b933d625e0e6ad54b4e422af3c9/68747470733a2f2f7374617469632e64696e6774616c6b2e636f6d2f6d656469612f6c414c4f616a33785f63304248637a7a5f3234335f3238352e706e675f363230783130303030713930672e6a7067)
 
 ```
 cfg: 配置文件
