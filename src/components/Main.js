@@ -11,15 +11,15 @@ var imageDatas = require('../data/imageDatas.json');
 
 // let yeomanImage = require('../images/yeoman.png');
 //利用自执行函数,讲图片名信息转成图片URL路径信息
-function getImageUrl(imageDataArr) {
+imageDatas = (function getImageUrl(imageDataArr) {
   for (var i=0; i<imageDataArr.length;i++){
     var singeImageData = imageDataArr[i];
     singeImageData.imageUrl = require('../images/'+singeImageData.fileName);
     imageDataArr[i] = singeImageData;
   }
   return imageDataArr;
-}
-imageDatas = getImageUrl(imageDatas);
+})(imageDatas);
+
 /*
  * 获取区间内的一个随机值
  */
